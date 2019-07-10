@@ -1,9 +1,13 @@
-# �\�P�b�g�ʐM��ON/OFF�����w��IP�ɑ���Android�A�v��
-�\�P�b�g�ʐM��ON/OFF�̕�������e�L�X�g�{�b�N�X�ɂĎw�肵��IP�֑���Android�A�v���𐧍삵�܂����B
-IoT�J���̓���Ƃ���L�`�J�����Ă݂���A�ȒP�ȑ��d�C��ON/OF����IoT����̏����ɂȂ�΂Ǝv���܂��B
+# ソケット通信でON/OFF情報を指定IPに送るAndroidアプリ
+ソケット通信でON/OFFの文字列をテキストボックスにて指定したIPへ送るAndroidアプリを制作しました。
+IoT開発の入門としてLチカをしてみたり、簡単な卓上電気のON/OF等のIoT製作の助けになればと思います。
 
-# ����o�[�W����
-����̃o�[�W�����͎��̒[���ɍ��킹�āA
+# 制作バージョン
+今回のバージョンは私の端末に合わせて、
 - Ver8.0.0
 - API26
-�ɍ��킹�ăR�[�f�B���O���Ă��܂��B
+に合わせてコーディングしています。
+
+また、使用前に一度、
+Build > Clean Project
+を行うことをお勧めします。
